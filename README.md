@@ -37,29 +37,15 @@ o	Ensure that all links (<a> tags) redirect correctly to the desired web pages.
 Step 3.1: Adding More Events Adding a New Upcoming Event
 1.	Navigate to the Upcoming Events section in the HTML file.
 2.	Look for a block of code resembling the following:
-   
-  	`<div class="announcement">
-	<h3>Event Title</h3>
-	<p>Description of the event, including date, time, and location.</p>
-	<img src="path-to-image.jpg" alt="Event Image">
-	<a href="link-to-event-details">Learn more</a>
-	</div>`
- 
+  	https://github.com/KavinG1242/Guelph-Engineering-Society-Email-Template/blob/a526ad71b275e0529ea263c57e495abe7ab4cf82/Code%20Embed%20for%20README
 4.	Copy this block of code and paste it directly below the last event in the section.
 5.	Update the placeholders (Event Title, Description, path-to-image.jpg, and link-to-event- details) with the details of the new event.
 Adding a New Ongoing Event
 1.	Navigate to the Ongoing Events section in the HTML file.
 2.	Look for a block of code similar to the following:
-
-	`<div class="announcement">
-	<h3>Event Title</h3>	
-	<p>Description of the ongoing event, including details and duration.</p>
-	<img src="path-to-image.jpg" alt="Event Image” 
-	<a href="link-to-event-details">Learn more</a>
-	</div>`
- 
-3.	Copy this block of code and paste it below the last ongoing event.
-4.	Replace the placeholders with the new ongoing event's details.
+        https://github.com/KavinG1242/Guelph-Engineering-Society-Email-Template/blob/a526ad71b275e0529ea263c57e495abe7ab4cf82/Code%20Embed%20for%20README
+4.	Copy this block of code and paste it below the last ongoing event.
+5.	Replace the placeholders with the new ongoing event's details.
    
 Step 3.2: Testing After Adding Events
 1.	Save the file and open it in a web browser to confirm the new events display correctly.
