@@ -1,0 +1,6 @@
+<div class="announcement">
+	<h3>Event Title</h3>
+	<p>Description of the event, including date, time, and location.</p>
+	<img src="path-to-image.jpg" alt="Event Image">
+	<a href="link-to-event-details">Learn more</a>
+	</div>
